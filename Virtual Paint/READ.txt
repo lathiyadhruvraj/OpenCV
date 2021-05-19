@@ -1,0 +1,7 @@
+paint.py 
+---------
+Different colours of pen caps detected (pink, green, blue)
+using cv2 inbuild functions.
+
+On showing the caps, the assigned colour circles of specific radius
+of the caps is printed or showed using cv2 functions. 
