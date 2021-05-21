@@ -1,0 +1,4 @@
+.py file contains 
+
+Code for both live camera and Image format, 
+comment/uncomment codelines of (live camera/image) format incase needed
