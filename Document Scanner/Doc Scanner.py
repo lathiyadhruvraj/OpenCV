@@ -88,7 +88,7 @@ cv2.imshow("Doc Scanner", frameWrap)
 cv2.waitKey(0)
 
 ##############################################################################################
-#                       DOCUMENTS USING CAMERA                                               #
+#                       DOCUMENTS GIVEN USING CAMERA                                         #
 ##############################################################################################
 # cap = cv2.VideoCapture(0)
 # cap.set(3, frameWidth)
